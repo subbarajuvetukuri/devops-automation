@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: my-container
-        image: subbaraju7899/kubernetes:26
+        image: subbaraju7899/kubernetes:27
         ports:
         - containerPort: 8080
 
