@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "Hi, Welcome to magam , amalapuram Andhara pradesh";
+		return "Hi, Welcome to NIC , Megraj Colud";
 	}
 
 	public static void main(String[] args) {
